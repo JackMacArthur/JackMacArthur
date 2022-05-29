@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JackMacArthur
-- 👀 I’m interested in web3 evm 
 - 🌱 I’m currently learning rust
 
 <!---
